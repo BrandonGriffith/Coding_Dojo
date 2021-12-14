@@ -1,24 +1,25 @@
 *{
-    background-color: rgb(155, 113, 120);
+    background-color: white;
     font-family: cursive;
-    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
 }
 h2{
-    background-color: aqua;
-    color: purple;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
 }
 #voidstar{
-    background-color: red;
-    color: white;
-    border: 3px solid black;
-    width: 20%;
+    background-color: rgb(75, 134, 168);
+    color: rgb(29, 27, 27);
+    text-decoration: underline;
+    text-align: right;
+    font-family: sans-serif;
 }
 .voidstar{
-    background-color: white;
-}
-.tall{
-    height: 300px;
-    width: 100px;
-    margin-left: 50%;
-    padding: 0%;
+    color: aqua;
+    background-color: black;
 }
