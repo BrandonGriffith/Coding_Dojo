@@ -1,0 +1,22 @@
+.searchB{
+    color: aqua;
+    border-radius: 30%;
+    margin: 50px;
+    padding: 2px 30px;
+    font-size: 20px;
+}
+.crossB{
+    color: white;
+    background-color: green;
+    border-radius: 50%;
+    margin: 50px;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+}
+.createA{
+    color: white;
+    background-color: blue;
+    margin: 50px;
+    padding: 5px 50px;
+}
