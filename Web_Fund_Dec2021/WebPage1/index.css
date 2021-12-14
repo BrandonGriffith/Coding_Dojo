@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(155, 113, 120);
+    font-family: cursive;
+    text-align: center;
+}
+h2{
+    background-color: aqua;
+    color: purple;
+}
+#voidstar{
+    background-color: red;
+    color: white;
+    border: 3px solid black;
+    width: 20%;
+}
+.voidstar{
+    background-color: white;
+}
+.tall{
+    height: 300px;
+    width: 100px;
+    margin-left: 50%;
+    padding: 0%;
+}
