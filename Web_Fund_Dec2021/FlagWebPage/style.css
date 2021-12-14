@@ -1,0 +1,19 @@
+#flag{
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+}
+.strips{
+    width: 32%;
+    height: 100%;
+    display: inline-flex;
+    border: 1px solid black;
+    margin-left: -4px;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
