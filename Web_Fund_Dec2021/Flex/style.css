@@ -1,0 +1,30 @@
+*{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+}
+marquee{
+    color: purple;
+}
+.mar{
+    background-color: black;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    background-color: white;
+}
+.flex{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.box{
+    height: 275px;
+    width: 275px;
+    background-color: black;
+}
