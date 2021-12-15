@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+.box{
+    background-color: aqua;
+    width: 50%;
+    height: 250px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+img{
+    height: 200px;
+}
+.pink{
+    background-color: pink;
+}
+.orange{
+    background-color: orange;
+}
