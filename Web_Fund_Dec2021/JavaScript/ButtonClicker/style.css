@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: cursive;
+    background-color: whitesmoke;
+}
+a { 
+    color: darkblue; 
+}
+input {
+    width: 400px;
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 0 100px;
+}
+button {
+    font-size: 1.2rem;
+    padding: 5px 15px;
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+    cursor: pointer;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.top {
+    background-color: lightgray;
+    height: 60px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.top > h1 {
+    font-size: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.loginBtn {
+    background-color: blue;
+    color: white;
+}
+.big-box { 
+    display: flex; 
+}
+.left-box { 
+    width: 650px; 
+}
+.block {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+.center-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.side {
+    width: 180px;
+    text-align: center;
+}
+.side p {
+    margin: 5px;
+    font-size: 20px;
+}
+.likeBtn {
+    background-color: yellow;
+}
+.text {
+    margin-left: 20px;
+    font-size: 30px;
+}
+.block h2 {
+    font-size: 30px;
+}
+.right-box {
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+}
+.add-button {
+    background-color: lightgreen;
+    margin-top: 30px;
+    width: 90%;
+    font-size: 25px;
+}
